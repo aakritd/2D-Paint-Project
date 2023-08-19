@@ -1,0 +1,18 @@
+﻿  main.cpp
+D:\openglproject\openglproject\buttons.h(201,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\openglproject\openglproject\fillcolor.h(253,48): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(254,48): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(255,48): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(285,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(286,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(287,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(303,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(304,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(305,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(318,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(319,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(320,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(334,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(335,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\openglproject\openglproject\fillcolor.h(336,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  openglproject.vcxproj -> D:\openglproject\openglproject\x64\Debug\openglproject.exe
